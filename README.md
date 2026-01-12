@@ -1,58 +1,114 @@
-# Adarsh P. Baiju
-> Backend engineer · Distributed systems · Open-source contributor
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header&text=Adarsh%20P.%20Baiju&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Adarsh-P-Baiju?label=Follow&style=social)](https://github.com/Adarsh-P-Baiju)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-P-Baiju&layout=compact&theme=vision-friendly-dark)](https://github.com/Adarsh-P-Baiju)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-P-Baiju&show_icons=true&theme=vision-friendly-dark)](https://github.com/Adarsh-P-Baiju)
+<p align="center">
+  <strong>Backend Engineer · Distributed Systems · Open Source</strong><br/>
+  Building reliable, observable, and scalable systems
+</p>
 
----
-
-## About
-I design and build scalable backend systems, developer tooling, and observability solutions. I focus on reliability, maintainability, and shipping pragmatic, well-tested software that solves real problems.
-
-- Location: Bengaluru, India
-- Availability: Open to collaborate on impactful projects and select contract work
-
----
-
-## Core Competencies
-- Languages: TypeScript · Python · Go · SQL
-- Backend & APIs: Node.js · Express · gRPC · REST
-- Cloud & Infrastructure: AWS · Docker · Kubernetes · Terraform
-- Data & Storage: PostgreSQL · Redis · Elasticsearch
-- Testing & CI/CD: Jest · PyTest · GitHub Actions
-- Observability & Monitoring: OpenTelemetry · Prometheus · Grafana
+<p align="center">
+  <a href="https://github.com/Adarsh-P-Baiju">
+    <img src="https://img.shields.io/github/followers/Adarsh-P-Baiju?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/Adarsh-P-Baiju?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-1f2937?style=flat-square" />
+  </a>
+</p>
 
 ---
 
-## Selected Work
-A snapshot of the kinds of systems and tooling I build and maintain.
+## 👋 About Me
 
-- High-throughput backend services and API gateways designed for low latency and high availability.
-- Developer-focused automation: CI/CD pipelines, release tooling, and reproducible dev environments.
-- Observability platforms and instrumentation to reduce MTTI/MTTR and enable data-driven ops.
-- Infrastructure as code for secure, auditable, and repeatable cloud deployments.
+I design and build **scalable backend systems**, **developer tooling**, and **observability platforms** with a strong focus on:
 
-Explore repositories and projects on my GitHub: https://github.com/Adarsh-P-Baiju?tab=repositories
+- Reliability & fault tolerance  
+- Maintainable, well-tested codebases  
+- Pragmatic engineering that ships value  
 
----
-
-## Professional Highlights
-- Architected production microservices handling millions of requests/week with a strong focus on fault-tolerance and graceful degradation.
-- Introduced structured observability and runbooks that materially reduced incident resolution time.
-- Led engineering reviews and mentoring programs that improved code quality, test coverage, and team velocity.
-- Regular contributor to open-source projects and community tooling.
+📍 **Bengaluru, India**  
+🤝 **Open to impactful collaborations & select contract work**
 
 ---
 
-## How I Work
-- Small, iterative changes with strong automated tests and observability from day one.
-- Clear documentation, reproducible local environments, and reliable CI pipelines.
-- Collaborative approach: align engineering, SRE, and product on risk and velocity trade-offs.
+## 🧠 Core Competencies
+
+### Languages
+`TypeScript` · `Python` · `Go` · `SQL`
+
+### Backend & APIs
+`Node.js` · `Express` · `gRPC` · `REST`
+
+### Cloud & Infrastructure
+`AWS` · `Docker` · `Kubernetes` · `Terraform`
+
+### Data & Storage
+`PostgreSQL` · `Redis` · `Elasticsearch`
+
+### Testing & CI/CD
+`Jest` · `PyTest` · `GitHub Actions`
+
+### Observability
+`OpenTelemetry` · `Prometheus` · `Grafana`
 
 ---
 
-## Connect
-- GitHub: https://github.com/Adarsh-P-Baiju
+## 🧩 What I Build
 
-If you'd like to collaborate or discuss a project, open an issue on one of my repositories or message me via GitHub.
+- **High-throughput backend services**  
+  Low-latency APIs and microservices designed for scale and graceful degradation.
+
+- **Developer productivity tooling**  
+  CI/CD pipelines, release automation, and reproducible dev environments.
+
+- **Observability & reliability platforms**  
+  Metrics, tracing, logging, and runbooks to reduce MTTI / MTTR.
+
+- **Infrastructure as Code**  
+  Secure, auditable, and repeatable cloud deployments.
+
+🔗 Explore my work:  
+👉 https://github.com/Adarsh-P-Baiju?tab=repositories
+
+---
+
+## 🚀 Professional Highlights
+
+- Architected production microservices handling **millions of requests per week**
+- Introduced **structured observability & runbooks**, significantly reducing incident resolution time
+- Led engineering reviews and mentoring initiatives to improve **code quality & test coverage**
+- Active contributor to **open-source projects and community tooling**
+
+---
+
+## 🛠️ How I Work
+
+- Small, iterative changes with strong automated tests
+- Observability and operability from day one
+- Clear documentation and reproducible local setups
+- Close collaboration across engineering, SRE, and product
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Adarsh-P-Baiju&show_icons=true&theme=vision-friendly-dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-P-Baiju&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+---
+
+## 🤝 Connect
+
+- GitHub: https://github.com/Adarsh-P-Baiju  
+
+💬 Want to collaborate or discuss a project?  
+Open an issue on a repo or reach out via GitHub.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=80&section=footer" />
+</p>
