@@ -6,10 +6,10 @@
   <a href="https://github.com/Adarsh-P-Baiju">
     <img src="https://img.shields.io/github/followers/Adarsh-P-Baiju?label=Followers&style=social" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
+  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  </a> -->
+  <a href="mailto:adarshpbaiju@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
@@ -29,7 +29,7 @@
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,py,express,postgres,redis,elasticsearch&theme=dark&perline=8" />
+      <img src="https://skillicons.dev/icons?i=ts,py,express,postgres,redis&theme=dark&perline=8" />
     </a>
   </p>
   <p>
