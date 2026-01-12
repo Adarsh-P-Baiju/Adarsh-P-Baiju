@@ -28,12 +28,12 @@
 <h3 align="center">🛠️ Core Infrastructure & Stack</h3>
 <div align="center">
   <p>
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=ts,py,express,postgres,redis&theme=dark&perline=8" />
     </a>
   </p>
   <p>
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark&perline=8" />
     </a>
   </p>
