@@ -17,12 +17,9 @@
 <br />
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Architecting+Fault-Tolerant+Microservices;Automating+Cloud+Infrastructure;Observability+First+Engineering" alt="Typing SVG" />
-  </a>
   
   <p width="600px">
-    I am a backend engineer focused on <b>resilience</b> and <b>scale</b>. I build systems that fail gracefully and recover quickly. <br/> Currently based in <b>Bengaluru, India 🇮🇳</b>.
+    I am a backend engineer focused on <b>resilience</b> and <b>scale</b>. I build systems that fail gracefully and recover quickly. <br/> Currently based in <b>Kerala, India 🇮🇳</b>.
   </p>
 </div>
 
@@ -32,12 +29,12 @@
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,py,go,nodejs,express,postgres,redis,elasticsearch&theme=dark&perline=8" />
+      <img src="https://skillicons.dev/icons?i=ts,py,express,postgres,redis,elasticsearch&theme=dark&perline=8" />
     </a>
   </p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,grafana,prometheus,githubactions,jest&theme=dark&perline=8" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark&perline=8" />
     </a>
   </p>
 </div>
@@ -72,13 +69,6 @@
 </table>
 
 <br />
-
-<h3 align="center">📊 Engineering Metrics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-P-Baiju&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=1F222E&title_color=61dafb&icon_color=61dafb" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-P-Baiju&layout=compact&theme=react&border_radius=10&bg_color=1F222E&title_color=61dafb&icon_color=61dafb" height="150" alt="languages graph" />
-</div>
-
 <div align="center">
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" width="100%" />
