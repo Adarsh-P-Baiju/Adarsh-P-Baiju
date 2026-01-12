@@ -41,7 +41,7 @@
 
 <br />
 
-<table>
+<table align="center" width="100%">
   <thead>
     <tr>
       <th align="center" width="50%">🧩 What I Build</th>
